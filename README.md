@@ -45,8 +45,8 @@ The redesign incorporates advanced front-end techniques to deliver a premium use
 ---
 
 ## 📁 Project Structure
-
 The repository follows a clean and logical file structure:
+```bash
 kingsukh-guesthouse-redesign/
 ├── assets/
 │   ├── images/         # All high-resolution images (Hero, Rooms, Gallery)
@@ -55,7 +55,7 @@ kingsukh-guesthouse-redesign/
 ├── styles.css          # All custom CSS, variables, theming, and media queries
 └── README.md           # Project documentation and guide (This file)
  
-
+``` 
 ---
 
 ## 🛠 Getting Started (Local Setup)
@@ -78,7 +78,15 @@ To run this project locally, follow these simple steps:
     > *You can use the "Go Live" extension in VS Code for a better local development experience.*
 
 ---
-
+## Live Project Demonstration 
+To provide immediate evidence of the project's quality and functionality, the following demonstration highlights key dynamic features implemented in the redesign:
+-   **Responsiveness:** Viewing the layout fluidly across screen sizes. 
+-   **Dynamic Header:** The "shrink-on-scroll" effect of the sticky navigation. 
+-   **Interactivity:** Toggling the Dark Mode and triggering Scroll Animations.
+*   **Dark Mode:** [Click Here](https://drive.google.com/file/d/1UUQbDcX6SzI94sccatpcDS_HYK6tSUz0/view?usp=sharing)
+*   **Light Mode:** [Click Here](https://drive.google.com/file/d/1dbPPWRQdrBTTNWVDIKfLMAugU07jggpt/view?usp=sharing)
+ 
+---
 ## 💡 Future Enhancements (Roadmap)
 
 The following features are recommended for future development:
